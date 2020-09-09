@@ -18,7 +18,7 @@ Students/Faculty
 
 <h5> Course Alignment : </h5>
 
-The courses aligned 
+The course aligned to introduction of programming language.
 
 <h5> Universities Mapped : </h5>
 Dr. A.P.J. Abdul Kalam Technical University Uttar Pradesh(AKTU)
