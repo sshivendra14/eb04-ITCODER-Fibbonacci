@@ -23,11 +23,11 @@ Type here: courses aligned
 <h5> Universities Mapped : </h5>
 Dr. A.P.J. Abdul Kalam Technical University Uttar Pradesh(AKTU)
 
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Name of Developer | <b> Shivendra Singh
 :--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
+<b> Institute | <b> United College of Engineering and Research
+<b> Email id|     <b> sshivendra14@gmail.com
+<b> Department | Computer Science and Engineering
 
 #### Mentor Details
 
