@@ -1,7 +1,7 @@
 ## Introduction (Round 0)
 <b>Discipline | <b>Computer Science Engineering and Information Technology
 :--|:--|
-<b> Lab | <b> Programming For Problem Solving Approach
+<b> Lab | <b> Programming For Problem Solving 
 <b> Experiment|     <b> 1. Write a program in c to implement Fibbonacci Series.
 
 <h5> About the Lab (Objective) : </h5>
@@ -18,7 +18,7 @@ Students/Faculty
 
 <h5> Course Alignment : </h5>
 
-Type here: courses aligned
+The courses aligned
 
 <h5> Universities Mapped : </h5>
 Dr. A.P.J. Abdul Kalam Technical University Uttar Pradesh(AKTU)
@@ -31,21 +31,18 @@ Dr. A.P.J. Abdul Kalam Technical University Uttar Pradesh(AKTU)
 
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | <b> Rupali Sharma
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
+<b> Institute | <b> Meerut Institute of Engineering and Technology
+<b> Email id|     <b> rupali.sharma@miet.ac.in
+<b> Department | Pharmaceutical Technology
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-
-
+1 | ARUSHI KUMAR| student | IT | United College of Engineering & Research,Prayagraj|arushikumar260599@gmail.com 
+2 | AMAN KESHARWANI | Student | IT | United College of Engineering & Research,Prayagraj |akumarkesarwani@gmail.com
+3 | MEHAK AGARWAL | Student | IT | United College of Engineering & Research,Prayagraj |er.mahak2001@gmail.com
+4 | ADITYA KESHARWANI | Student | IT | United College of Engineering & Research,Prayagraj|adikesh01@gmail.com
 <br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
