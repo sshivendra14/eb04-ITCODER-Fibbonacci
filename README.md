@@ -2,7 +2,7 @@
 <b>Discipline | <b>Computer Science Engineering and Information Technology
 :--|:--|
 <b> Lab | <b> Programming For Problem Solving 
-<b> Experiment|     <b> 1. Write a program in c to implement Fibbonacci Series.
+<b> Experiment|     <b> 1. Write a program in C to implement Fibbonacci Series.
 
 <h5> About the Lab (Objective) : </h5>
 
