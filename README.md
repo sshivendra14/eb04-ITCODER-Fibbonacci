@@ -6,11 +6,11 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-This lab is all about the Programming Solving Approach.
+This lab is all about the Programming Solving Approach which can used to solve real life problem.
 
 <h5> About the Experiment : </h5>
 
-This experiment is basically focus on calculating the fibbonacci series of any positive interger number using Recursion concept.
+This experiment is basically focus on calculating the fibbonacci series of any positive interger number using Recursion concept.To compute the fibbonacci value/series of any number two previous value must be known.To compute previous value use formula f(n)=f(n-1)+f(n-2).
 
 <h5> Target Audience : </h5>
 
