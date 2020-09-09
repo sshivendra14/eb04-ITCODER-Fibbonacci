@@ -14,11 +14,12 @@ This experiment is basically focus on calculating the fibbonacci series of any p
 
 <h5> Target Audience : </h5>
 
-B.Tech Students/Faculty
+B.Tech Students<br>
+First Year(Ist year)
 
 <h5> Course Alignment : </h5>
 
-The course aligned to introduction of programming language.
+The course is aligned to introduction of programming language to B.Tech.
 
 <h5> Universities Mapped : </h5>
 Dr. A.P.J. Abdul Kalam Technical University Uttar Pradesh(AKTU)
