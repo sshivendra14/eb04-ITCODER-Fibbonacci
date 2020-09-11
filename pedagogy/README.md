@@ -1,16 +1,10 @@
 ## Pedagogy (Round 1)
-<p align="center">
+<b> Write a Program in C to print Fibbonacci series  <a name="top"></a> <br>
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
-<br>
-<br>
-<b> Experiment ABCDEF Lab  <a name="top"></a> <br>
-</p>
-
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Computer Science & Engineering/Information Technology
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> Programming for Problem Solving
+<b> Experiment|     <b> 1. Write a Program in C to print Fibbonacci series
 
 
 <h4> [1. Focus Area](#LO)
