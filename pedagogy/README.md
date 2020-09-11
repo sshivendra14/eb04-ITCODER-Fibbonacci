@@ -72,6 +72,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Student will enter any number in between 1-20.| Based on user input n value fibbonacci series computed step by step | User will be able to visualize the recursion concept.
+1.| Student will enter any number in between 1-20.|<div align="justify"> Based on user input n value fibbonacci series computed step by step.</div> |<div align="justify">User will be able to visualize the recursion concept.</div>
 
 
