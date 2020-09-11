@@ -59,8 +59,6 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 2.| User will be able to apply the recursion concept to compute fibbonacci series.| Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
 
  <br>
-
- <u> You can add additional TASKS & Assessment Questions <u>
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
