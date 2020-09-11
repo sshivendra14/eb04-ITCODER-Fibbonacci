@@ -23,7 +23,7 @@
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| User will be able to: <br>understand the concept of recursion. <br>| Understand | Explain
-2.| User will be able to: <br>apply the recursion concept to compute fibbonacci series. <br>|Apply  | Solve
+2.| User will be able to: <br>apply the recursion concept. <br>|Apply  | Solve
 
 <br/>
 <div align="right">
