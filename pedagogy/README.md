@@ -56,8 +56,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.| User will be able to understand the concept of recursion.| identify data structure for recursion | 1. Data structure used for recursion___<br> A. Queue<br><b>B. Stack</b><br>C. Structure<br>D. Array<br>
-2.| User will be able to apply the recursion concept.| try to compute fibbonacci series | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
-
+2.| User will be able to apply the recursion concept.| try to compute fibbonacci series | 1 Find the fibbonacci series of 6___ <br> A. 7 <br> <b>B. 8 </b><br> C. 9 <br> <b> D. 11 <br> 
  <br>
 <br/>
 <div align="right">
