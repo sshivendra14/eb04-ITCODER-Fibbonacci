@@ -1,22 +1,23 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
-Experiment 1: Name of the Experiment
+Experiment 1: Write a program of fibonacci series.
 
 ### 1. Story Outline:
-
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+Fibonacci series is a sequence where each number is the sum of the previous two numbers in the series.
 
 ### 2. Story:
-
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+In this simulator program the user provides the input and it will generate its fibonacci series.
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+The simulator is divided into three parts.
+First part consists of an input field and three buttons(start, next, reset).
+Second part has the step execution.
+Thrid part is the output block.
+First the user will input the number for which he wants the series to be printed then the user clicks on the next button and he will be able to see which line of code is getting executed at that point and will understand the concept of recursion.
+If the user wants he can reset the simulator at any point.
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+The user will be able to understand the concept of recursion and will be able to apply the recursion concept.
 
 #### 2.3 Set the Pathway Activities:
 
