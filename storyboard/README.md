@@ -1,6 +1,6 @@
 ## Storyboard (Round 2)
 
-Experiment 1: Write a program of fibonacci series.
+Experiment 1: Write a C program of fibonacci series.
 
 ### 1. Story Outline:
 Fibonacci series is a sequence where each number is the sum of the previous two numbers in the series.
@@ -12,9 +12,9 @@ In this simulator program the user provides the input and it will generate its f
 The simulator is divided into three parts.
 First part consists of an input field and three buttons(start, next, reset).
 Second part has the step execution.
-Thrid part is the output block.
+Third part is the output block.
 First the user will input the number for which he wants the series to be printed then the user clicks on the next button and he will be able to see which line of code is getting executed at that point and will understand the concept of recursion.
-If the user wants he can reset the simulator at any point.
+If he wants he can reset the simulator at any point.
 
 #### 2.2 Set User Objectives & Goals:
 The user will be able to understand the concept of recursion and will be able to apply the recursion concept.
