@@ -43,7 +43,7 @@ Dr. A.P.J. Abdul Kalam Technical University Uttar Pradesh(AKTU)
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | ARUSHI KUMAR| Student | IT | United College of Engineering & Research,Prayagraj|arushi.ku22@gmail.com 
-2 | AMAN KESHARWANI | Student | IT | United College of Engineering & Research,Prayagraj |akumarkesarwani@gmail.com
+2 | AMAN KESARWANI | Student | IT | United College of Engineering & Research,Prayagraj |akumarkesarwani@gmail.com
 3 | MAHAK AGARWAL | Student | IT | United College of Engineering & Research,Prayagraj |er.mahak2001@gmail.com
 4 | ADITYA KESHARWANI | Student | IT | United College of Engineering & Research,Prayagraj|adikesh01@gmail.com
 <br>
