@@ -1,5 +1,5 @@
 ## Pedagogy (Round 1)
-<b> Write a Program in C to print Fibbonacci series  <a name="top"></a> <br>
+<b> Write a Program in C to print Fibbonacci series  <a name="top"></a></b><br>
 
 <b>Discipline | <b>Computer Science & Engineering/Information Technology
 :--|:--|
