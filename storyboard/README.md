@@ -3,7 +3,13 @@
 Experiment 1: Write a C program of fibonacci series.
 
 ### 1. Story Outline:
-Fibonacci series is a sequence where each number is the sum of the previous two numbers in the series.
+Fibonacci series is a sequence, commonly denoted F(n), such that each number is the sum of the two preceding ones, starting from 0 and 1.
+F(0)=0, F(1)=0
+and
+F(n)=F(n-1)+F(n-2)
+for n > 1.
+The beginning of the sequence is thus:
+0,1,1,2,3,5,8,13,21,34,55,89,144,
 
 ### 2. Story:
 In this simulator program the user provides the input and it will generate its fibonacci series.
