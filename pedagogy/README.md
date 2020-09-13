@@ -22,8 +22,8 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>understand the concept of recursion. <br>| Understand | Explain
-2.| User will be able to: <br>apply the recursion concept. <br>|Apply  | Solve
+1.| User will be able to: <br>explain the concept of recursion. <br>| Explain | Explain
+2.| User will be able to: <br>apply the recursion concept. <br>|Apply  | Apply
 
 <br/>
 <div align="right">
