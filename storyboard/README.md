@@ -3,46 +3,53 @@
 Experiment 1: Write a C program of fibonacci series.
 
 ### 1. Story Outline:
-Fibonacci series is a sequence, commonly denoted F(n), such that each number is the sum of the two preceding ones, starting from 0 and 1.
-F(0)=0, F(1)=0
-and
-F(n)=F(n-1)+F(n-2)
-for n > 1.
-The beginning of the sequence is thus:
-0,1,1,2,3,5,8,13,21,34,55,89,144,
+Fibonacci series is a sequence, commonly denoted F(n), such that each number is the sum of the two preceding ones, starting from 0 and 1.<br>
+F(0)=0, F(1)=0<br>
+and<br>
+F(n)=F(n-1)+F(n-2)<br>
+for n > 1.<br>
+The beginning of the sequence is thus:<br>
+0,1,1,2,3,5,8,13,21,34,55,89,144,......
 
 ### 2. Story:
 In this simulator program the user provides the input and it will generate its fibonacci series.
 
 #### 2.1 Set the Visual Stage Description:
-The simulator is divided into three parts.
-First part consists of an input field and three buttons(start, next, reset).
-Second part has the step execution.
-Third part is the output block.
+The simulator is divided into three parts.<br>
+First part consists of an input field and three buttons(start, next, reset).<br>
+Second part has the step execution.<br>
+Third part is the output block.<br>
 First the user will input the number for which he wants the series to be printed then the user clicks on the next button and he will be able to see which line of code is getting executed at that point and will understand the concept of recursion.
 If he wants he can reset the simulator at any point.
 
 #### 2.2 Set User Objectives & Goals:
-The user will be able to understand the concept of recursion and will be able to apply the recursion concept.
+The user will be able to understand the concept of recursion and will be able to apply the recursion concept.<br>
+The simulator usually shows every step so that user may better understand the logic behind the process.<br>
+To display different scenarios on choosing different values of num.<br>
+To answer the assessment based on the observations.
 
 #### 2.3 Set the Pathway Activities:
-
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+1.Click on Next button until the variable is declared.<br>
+2.User has to provide a number within a given range in the text box provided.<br>
+3.Click Start and the entered value of num will be displayed.<br>
+4.Click Next button to execute the fibonacci program line by line.<br>
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
 Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+1.The simulator is designed for a particular range of numbers so the user needs to be attentive while choosing the numbers to display the series.<br>
+2.The user has the great opportunity to learn about the concept of recursion.<br>
 
 ##### 2.6 Conclusion:
 Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
-
+F(0)=0, F(1)=0<br>
+and<br>
+F(n)=F(n-1)+F(n-2)<br>
+for n > 1
 
 ### 3. Flowchart 4
 <img src="flowchart/flowchart.png"/><br>
