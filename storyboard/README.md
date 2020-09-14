@@ -23,10 +23,10 @@ First the user will input the number for which he wants the series to be printed
 If he wants he can reset the simulator at any point.
 
 #### 2.2 Set User Objectives & Goals:
-The user will be able to understand the concept of recursion and will be able to apply the recursion concept.<br>
-The simulator usually shows every step so that user may better understand the logic behind the process.<br>
-To display different scenarios on choosing different values of num.<br>
-To answer the assessment based on the observations.
+1.The user will be able to understand the concept of recursion and will be able to apply the recursion concept.<br>
+2.The simulator usually shows every step so that user may better understand the logic behind the process.<br>
+3.To display different scenarios on choosing different values of num.<br>
+4.To answer the assessment based on the observations.
 
 #### 2.3 Set the Pathway Activities:
 1.Click on Next button until the variable is declared.<br>
@@ -36,7 +36,17 @@ To answer the assessment based on the observations.
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+Q1.What will be the length of fibonacci series if the number entered by the user is n?<br>
+a.)n+1<br>
+<b>b.)n<br></b>
+c.)n*n<br>
+d.)n/2<br>
+<br>
+Q2. What is the first three-digit square number that appears on the list of Fibonacci numbers?<br>
+a.)121<br>
+b.)169<br>
+c.)100<br>
+<b>d.)144</b><br>
 
 ##### 2.5 Allow pitfalls:
 1.The simulator is designed for a particular range of numbers so the user needs to be attentive while choosing the numbers to display the series.<br>
