@@ -13,31 +13,29 @@ The beginning of the sequence is thus:<br>
 
 ### 2. Story:
 In this simulator program the user provides the input and it will generate its fibonacci series. The user will enter the number and presses the start button.When the start button is pressed it calls the fibonacci function which calculates the fibonacci of a number through recursion process and finally returns the fibonacci series of the entered number to the user.<br>
-1.Click on next button until an input field appears on the window.<br>
-2.Enter the value in the given range.<br>
-3.Click on start button to start the execution of the program.<br>
-4.Click on next button to see which line of code is getting executed at that point.<br>
-5.After the program gets executed completely click the reset button to clear the window to test for new value.<br>
+
 
 #### 2.1 Set the Visual Stage Description:
 The simulator is divided into three parts.<br>
-First part consists of an input field and three buttons(start, next, reset).<br>
-Second part has the step execution.<br>
-Third part is the output block.<br>
+First part consists of an input field and three buttons(start, next, reset).The input field is for entering the limit till which fibonacci is to be printed.The start button us to start the simulator process.The next button is to execute the next instruction repeatedly.The reset button is used to reset the simulator back to its original state.<br>
+Second part has the step execution display.This part displays the line by line execution of the code for finding the fibonacci series.<br>
+Third part is the output block.The output block shows the end result of each iteration of fibonacci series anf finally prints each term of the series.<br>
 First the user will input the number for which he wants the series to be printed then the user clicks on the next button and he will be able to see which line of code is getting executed at that point and will understand the concept of recursion.
 If he wants he can reset the simulator at any point.
 
 #### 2.2 Set User Objectives & Goals:
 1.The user will be able to understand the concept of recursion and will be able to apply the recursion concept.<br>
-2.The simulator usually shows every step so that user may better understand the logic behind the process.<br>
-3.To display different scenarios on choosing different values of num.<br>
+2.The simulator clearly shows every execution step so that the user may better understand the logic behind the process.<br>
+3.To display different scenarios on choosing different values of input.<br>
 4.To answer the assessment based on the observations.
 
 #### 2.3 Set the Pathway Activities:
-1.Click on Next button until the variable is declared.<br>
-2.User has to provide a number within a given range in the text box provided.<br>
-3.Click Start and the entered value of num will be displayed.<br>
-4.Click Next button to execute the fibonacci program line by line.<br>
+1.Click on start button to start the simulator.
+2.Click on next button until an input field appears on the window.<br>
+3.Enter the value in the given range.<br>
+4.Click on next button to start the fibonacci computation process.<br>
+5.Click on next button to see which line of code is getting executed at each step of execution.<br>
+6.After the program gets executed completely click the reset button to clear the window to test for new value.<br>
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
@@ -56,9 +54,14 @@ c.)100<br>
 ##### 2.5 Allow pitfalls:
 1.The simulator is designed for a particular range of numbers so the user needs to be attentive while choosing the numbers to display the series.<br>
 2.The user has the great opportunity to learn about the concept of recursion.<br>
+3.The user may get different conclusion on different inputs and so attention is needed to enter the correct integer input.<br>
+4.The user may get unexpected conclusion on a decimal input and may commit a mistake by doing so.<br>
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+1.The fibonacci series is computed and printed according to the given input.
+2.The concept of stack and recursion is to be understood and then applied accordingly.
+3.Assessment/evaluation of the pre-test and post-test should be given immediately to the user. The moment the student clicks on the answer of his choice, the CORRECT ANSWER should be displayed below the question. This would enable the student to understand whether he is right or wrong.<br>
+4.This would prompt the users as to how many answers were correctly answered.
 
 ##### 2.7 Equations/formulas: NA
 F(0)=0, F(1)=0<br>
