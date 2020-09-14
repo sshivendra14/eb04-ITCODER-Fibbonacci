@@ -12,7 +12,7 @@ The beginning of the sequence is thus:<br>
 0,1,1,2,3,5,8,13,21,34,55,89,144,......
 
 ### 2. Story:
-In this simulator program the user provides the input and it will generate its fibonacci series. The user will enter the number and presses the start button.When the start button is pressed it calls the fibonacci function which calculates the fibonacci of a number through recursion process and finally returns the fibonacci series of the entered number to the user.
+In this simulator program the user provides the input and it will generate its fibonacci series. The user will enter the number and presses the start button.When the start button is pressed it calls the fibonacci function which calculates the fibonacci of a number through recursion process and finally returns the fibonacci series of the entered number to the user.<br>
 1.Click on next button until an input field appears on the window.<br>
 2.Enter the value in the given range.<br>
 3.Click on start button to start the execution of the program.<br>
