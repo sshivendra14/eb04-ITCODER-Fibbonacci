@@ -30,7 +30,7 @@ If he wants he can reset the simulator at any point.
 4.To answer the assessment based on the observations.
 
 #### 2.3 Set the Pathway Activities:
-1.Click on start button to start the simulator.
+1.Click on start button to start the simulator.<br>
 2.Click on next button until an input field appears on the window.<br>
 3.Enter the value in the given range.<br>
 4.Click on next button to start the fibonacci computation process.<br>
