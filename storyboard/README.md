@@ -17,9 +17,9 @@ In this simulator program the user provides the input and it will generate its f
 
 #### 2.1 Set the Visual Stage Description:
 The simulator is divided into three parts.<br>
-First part consists of an input field and three buttons(start, next, reset).The input field is for entering the limit till which fibonacci is to be printed.The start button us to start the simulator process.The next button is to execute the next instruction repeatedly.The reset button is used to reset the simulator back to its original state.<br>
+First part consists of an input field and three buttons(start, next, reset).The input field is for entering the limit till which fibonacci is to be printed.The start button is to start the simulator process.The next button is to execute the next instruction repeatedly.The reset button is used to reset the simulator back to its original state.<br>
 Second part has the step execution display.This part displays the line by line execution of the code for finding the fibonacci series.<br>
-Third part is the output block.The output block shows the end result of each iteration of fibonacci series anf finally prints each term of the series.<br>
+Third part is the output block.The output block shows the end result of each iteration of fibonacci series and finally prints each term of the series.<br>
 First the user will input the number for which he wants the series to be printed then the user clicks on the next button and he will be able to see which line of code is getting executed at that point and will understand the concept of recursion.
 If he wants he can reset the simulator at any point.
 
@@ -57,10 +57,10 @@ c.)100<br>
 4.The user may get unexpected conclusion on a decimal input and may commit a mistake by doing so.<br>
 
 ##### 2.6 Conclusion:
-1.The fibonacci series is computed and printed according to the given input.
-2.The concept of stack and recursion is to be understood and then applied accordingly.
+1.The fibonacci series is computed and printed according to the given input.<br>
+2.The concept of stack and recursion is to be understood and then applied accordingly.<br>
 3.Assessment/evaluation of the pre-test and post-test should be given immediately to the user. The moment the student clicks on the answer of his choice, the CORRECT ANSWER should be displayed below the question. This would enable the student to understand whether he is right or wrong.<br>
-4.This would prompt the users as to how many answers were correctly answered.
+4.This would prompt the users as to how many answers were correctly answered.<br>
 
 ##### 2.7 Equations/formulas: NA
 F(0)=0, F(1)=0<br>
