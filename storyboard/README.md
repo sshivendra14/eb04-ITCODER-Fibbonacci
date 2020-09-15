@@ -31,11 +31,10 @@ If he wants he can reset the simulator at any point.
 
 #### 2.3 Set the Pathway Activities:
 1.Click on start button to start the simulator.<br>
-2.Click on next button until an input field appears on the window.<br>
-3.Enter the value in the given range.<br>
-4.Click on next button to start the fibonacci computation process.<br>
-5.Click on next button to see which line of code is getting executed at each step of execution.<br>
-6.After the program gets executed completely click the reset button to clear the window to test for new value.<br>
+2.Enter the value in the given range.<br>
+3.Click on next button to start the fibonacci computation process.<br>
+4.Click on next button to see which line of code is getting executed at each step of execution.<br>
+5.After the program gets executed completely click the reset button to clear the window to test for new value.<br>
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
