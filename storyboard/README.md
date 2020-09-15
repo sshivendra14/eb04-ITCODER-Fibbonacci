@@ -70,7 +70,7 @@ F(n)=F(n-1)+F(n-2)<br>
 for n > 1
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart.png"/><br>
+<img src="flowchart/flowchart.jpeg"/><br>
 
 ### 4. Mindmap:
 <img src="mindmap/mindmap.png"/>
