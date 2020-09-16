@@ -72,4 +72,4 @@ for n > 1
 <img src="mindmap/mindmap.png"/>
 
 ### 5. Storyboard :
-<img src="storyboard/Simulator.gif"/>
+<img src="storyboard/simulatorfib.gif"/>
