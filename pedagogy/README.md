@@ -72,6 +72,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Student will enter any number in between 1-7.|<div align="justify"> Based on user input n value fibbonacci series computed step by step using Stack.</div> |<div align="justify">User will be able to visualize the recursion concept.</div>
+1.| Student will enter any number in between 1-7.|<div align="justify"> Based on user input n value is store in memory called num.</div> |<div align="justify">User will be able to visualize how value is stored in memory.</div>
+2.| Student will click on next.|<div align="justify"> Based on user input n value fibbonacci series computed step by step using Stack.</div> |<div align="justify">User will be able to visualize the concept of recursion using stack.</div>
 
 
