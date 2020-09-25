@@ -49,19 +49,19 @@ b.) 169<br>
 c.) 100<br>
 d.) <b>144</b><br>
 <br>
-Q3. Which of the following option is wrong?
+Q3. Which of the following option is wrong?<br>
 a.) Fibonacci number can be calculated by using Dynamic programming <br>
 b.) Fibonacci number can be calculated by using Recursion method <br>
 c.) Fibonacci number can be calculated by using Iteration method<br>
 d.) <b>No method is defined to calculate Fibonacci number</b><br>
 <br>
-Q4. Which of the following recurrence relations can be used to find the nth fibonacci number?
+Q4. Which of the following recurrence relations can be used to find the nth fibonacci number?<br>
 a.) F(n) = F(n) + F(n – 1)  <br>
 b.) F(n) = F(n) + F(n + 1)  <br>
 c.) <b>F(n) = F(n – 1) + F(n – 2)</b><br>
 d.) F(n) = F(n – 1) <br>
 <br>
-Q5. Which of the following recurrence relations can be used to find the nth fibonacci number?
+Q5. Which of the following recurrence relations can be used to find the nth fibonacci number?<br>
 a.) 8  <br>
 b.) <b>14</b>  <br>
 c.) 21<br>
