@@ -22,7 +22,7 @@ First Year(Ist year)
 The course is aligned to introduction of programming language to B.Tech.
 
 <h5> Universities Mapped : </h5>
-Dr. A.P.J. Abdul Kalam Technical University Uttar Pradesh(AKTU)
+Dr. A.P.J. Abdul Kalam Technical University Uttar Pradesh(AKTU),Lucknow
 
 <b>Name of Developer | <b> Shivendra Singh
 :--|:--|
