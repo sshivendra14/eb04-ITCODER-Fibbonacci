@@ -8,7 +8,7 @@ c) n*n<br>
 d) n/2<br>
 
 2) What is the first three-digit square number that appears on the list of Fibonacci numbers?<br>
-a) 121br>
-<b> b) 144<br></b>
+a) 121<br>
+<b> b) 144</b><br>
 c) 169<br>
 d) 100<br>
