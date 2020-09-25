@@ -39,7 +39,7 @@ If he wants he can reset the simulator at any point.
 
 Q1.What will be the length of fibonacci series if the number entered by the user is n?<br>
 a.) n+1<br>
-<b>b.) n</b><br>
+b.) <b>n</b><br>
 c.) n*n<br>
 d.) n/2<br>
 <br>
@@ -47,7 +47,26 @@ Q2. What is the first three-digit square number that appears on the list of Fibo
 a.) 121<br>
 b.) 169<br>
 c.) 100<br>
-<b>d.) 144</b><br>
+d.) <b>144</b><br>
+<br>
+Q3. Which of the following option is wrong?
+a.) Fibonacci number can be calculated by using Dynamic programming <br>
+b.) Fibonacci number can be calculated by using Recursion method <br>
+c.) Fibonacci number can be calculated by using Iteration method<br>
+d.) <b>No method is defined to calculate Fibonacci number</b><br>
+<br>
+Q4. Which of the following recurrence relations can be used to find the nth fibonacci number?
+a.) F(n) = F(n) + F(n – 1)  <br>
+b.) F(n) = F(n) + F(n + 1)  <br>
+c.) <b>F(n) = F(n – 1) + F(n – 2)</b><br>
+d.) F(n) = F(n – 1) <br>
+<br>
+Q5. Which of the following recurrence relations can be used to find the nth fibonacci number?
+a.) 8  <br>
+b.) <b>14</b>  <br>
+c.) 21<br>
+d.) 15 <br>
+<br>
 
 ##### 2.5 Allow pitfalls:
 1.The simulator is designed for a particular range of numbers so the user needs to be attentive while choosing the numbers to display the series.<br>
