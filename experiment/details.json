@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": "Write a program in C to implement Fibbonacci Series.",     
+			"Lab": "Programming For Problem Solving",               
+			"Discipline": "Computer Science Engineering and Information Technology",				 
+			"Technology": "B.Tech"         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Shivendra Singh",         
+      "Institute": "United College of Engineering and Research,Prayagraj",         
+      "InstituteAcronym": "UCER"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "ARUSHI KUMAR",             
+      "Institute": "United College of Engineering and Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "AMAN KESARWANI",              
+      "Institute": "United College of Engineering and Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "MAHAK AGRAWAL",             
+      "Institute": "United College of Engineering and Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "ADITYA KESHARWANI",              
+      "Institute": "United College of Engineering and Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
        }
    ]
 
