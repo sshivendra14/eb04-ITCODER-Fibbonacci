@@ -1,1 +1,1 @@
-http://www.maths.surrey.ac.uk/hosted-sites/R.Knott/Fibonacci/fibrefs.html<br>
+Golden Ratio And Fibonacci Numbers, Richard A Dunlap,World Scientific Publishing Co Pte Ltd,1997
